@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "Cherry MX Red",
+    "SwitchType": "Linear",
+    "Silent": false,
+    "OperatingForce": 45,
+    "PreTravel": 2,
+    "TotalTravel": 4,
+    "Manufacturer": "Cherry",
+    "MountType": "Plate mount 3pin",
+    "Url": "https://shop.yushakobo.jp/collections/all-switches/products/cherry-mx?variant=37665642021025",
+    "ImageUrl": "https://cdn.shopify.com/s/files/1/0532/0880/9633/products/Cherry_MX_Red-1_2048x2048.jpg?v=1612414677"
+  },
+  {
+    "Name": "Cherry MX Brown",
+    "SwitchType": "Tactile",
+    "Silent": false,
+    "OperatingForce": 55,
+    "PreTravel": 2,
+    "TotalTravel": 4,
+    "Manufacturer": "Cherry",
+    "MountType": "Plate mount 3pin",
+    "Url": "https://shop.yushakobo.jp/collections/all-switches/products/cherry-mx?variant=37665642053793",
+    "ImageUrl": "https://cdn.shopify.com/s/files/1/0532/0880/9633/products/Cherry_MX_Brown-1_2048x2048.jpg?v=1612414677"
+  }
+]
