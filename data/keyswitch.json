@@ -8,8 +8,20 @@
     "TotalTravel": 4,
     "Manufacturer": "Cherry",
     "MountType": "Plate mount 3pin",
-    "Url": "https://shop.yushakobo.jp/collections/all-switches/products/cherry-mx?variant=37665642021025",
-    "ImageUrl": "https://cdn.shopify.com/s/files/1/0532/0880/9633/products/Cherry_MX_Red-1_2048x2048.jpg?v=1612414677"
+    "Url": "https://www.cherrymx.de/en/cherry-mx/mx-original/mx-red.html",
+    "ImageUrl": "https://www.cherrymx.de/_Resources/Persistent/d/4/e/5/d4e5d661da4d28eb2c5d6321289c29ac2d6cbd56/img-productstage-mxRed%402x_100-368x368.png"
+  },
+  {
+    "Name": "Cherry MX Speed Silver",
+    "SwitchType": "Linear",
+    "Silent": false,
+    "OperatingForce": 45,
+    "PreTravel": 1.2,
+    "TotalTravel": 3.4,
+    "Manufacturer": "Cherry",
+    "MountType": "Plate mount 3pin",
+    "Url": "https://www.cherrymx.de/en/cherry-mx/mx-original/mx-speed-silver.html",
+    "ImageUrl": "https://www.cherrymx.de/_Resources/Persistent/3/9/e/2/39e2416ee3a4110c462ec4cdc58cf340c340cd05/img-productstage-mxSpeedSilver%402x_100-368x368.png"
   },
   {
     "Name": "Cherry MX Brown",
@@ -20,7 +32,55 @@
     "TotalTravel": 4,
     "Manufacturer": "Cherry",
     "MountType": "Plate mount 3pin",
-    "Url": "https://shop.yushakobo.jp/collections/all-switches/products/cherry-mx?variant=37665642053793",
-    "ImageUrl": "https://cdn.shopify.com/s/files/1/0532/0880/9633/products/Cherry_MX_Brown-1_2048x2048.jpg?v=1612414677"
+    "Url": "https://www.cherrymx.de/en/cherry-mx/mx-original/mx-brown.html",
+    "ImageUrl": "https://www.cherrymx.de/_Resources/Persistent/9/c/3/0/9c30f73c7c84f223fa5fdc45c9961c126d1ddea5/img-productstage-mxBrown%402x_100-368x368.png"
+  },
+  {
+    "Name": "Cherry MX Black",
+    "SwitchType": "Linear",
+    "Silent": false,
+    "OperatingForce": 60,
+    "PreTravel": 2,
+    "TotalTravel": 4,
+    "Manufacturer": "Cherry",
+    "MountType": "Plate mount 3pin",
+    "Url": "https://www.cherrymx.de/en/cherry-mx/mx-original/mx-black.html",
+    "ImageUrl": "https://www.cherrymx.de/_Resources/Persistent/9/a/d/f/9adfae3ad1b291618e8c739694e2c8aa313d0b01/img-productstage-mxBlack%402x_100-368x368.png"
+  },
+  {
+    "Name": "Cherry MX Blue",
+    "SwitchType": "Clicky",
+    "Silent": false,
+    "OperatingForce": 60,
+    "PreTravel": 2.2,
+    "TotalTravel": 4,
+    "Manufacturer": "Cherry",
+    "MountType": "Plate mount 3pin",
+    "Url": "https://www.cherrymx.de/en/cherry-mx/mx-original/mx-blue.html",
+    "ImageUrl": "https://www.cherrymx.de/_Resources/Persistent/8/9/9/3/89939ccada33f1ce3c03693eacad1c8375a3b7e2/img-productstage-mxBlue%402x-368x368.png"
+  },
+  {
+    "Name": "Cherry MX Silent Red",
+    "SwitchType": "Linear",
+    "Silent": true,
+    "OperatingForce": 45,
+    "PreTravel": 1.9,
+    "TotalTravel": 3.7,
+    "Manufacturer": "Cherry",
+    "MountType": "Plate mount 3pin",
+    "Url": "https://www.cherrymx.de/en/cherry-mx/mx-original/mx-silent-red.html",
+    "ImageUrl": "https://www.cherrymx.de/_Resources/Persistent/f/9/3/4/f93464b380e329732527f140f462df92f021982b/img-productstage-mxRedSilent%402x-368x368.png"
+  },
+  {
+    "Name": "Cherry MX Silent Black",
+    "SwitchType": "Linear",
+    "Silent": true,
+    "OperatingForce": 60,
+    "PreTravel": 1.9,
+    "TotalTravel": 3.7,
+    "Manufacturer": "Cherry",
+    "MountType": "Plate mount 3pin",
+    "Url": "https://www.cherrymx.de/en/cherry-mx/mx-original/mx-silent-black.html",
+    "ImageUrl": "https://www.cherrymx.de/_Resources/Persistent/6/f/2/6/6f267a04dfaf277f0b04499a3527fab9ef03b7ea/img-productstage-mxBlackSilent%402x-368x368.png"
   }
 ]
